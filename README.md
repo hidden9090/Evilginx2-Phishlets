@@ -20,10 +20,10 @@
 Some tips and suggestions to help secure your Evilginx Infrastructure.
 - Remove IOCs (X-Evilginx header and Default Cert Details)
 - Modify Unauth redirect static contents
-- Modify code to request wildcard certificates for root domain from Let'sEncrypt other than requesting for each subdomains (As mentioned in Kuba's blog) - Check this repo for reference https://github.com/ss23/evilginx2
+- Modify code to request wildcard certificates for root domain from Let'sEncrypt other than requesting for each subdomai
 - Put evilginx behind a proxy to help against  TLS fingerprinting (JA3 and JA3S)
 - Use cloudflare in between if possible/feasible (You have to configure the SSL Settings correctly, change it to Full in cloudflare settings)
-- Use some known ASN blacklist to avoid getting detected like here (https://github.com/aalex954/evilginx2-TTPs#ip-blacklist)
+- Use some known ASN blacklist to avoid getting detected 
 - Reduce the Number of proxyhosts in phishlet if possible to reduce content loading time.
 - Host Evilginx at Azure and use their domain (limit proxy host in phishlet to 1 or find a way , may be create multiple azure sub domains and try with that)
 - Add some sub_filters to modify the content of the pages to avoid content based detections, like (Favicon, form title font or style, or anything which seems relevant)
@@ -37,7 +37,7 @@ Some tips and suggestions to help secure your Evilginx Infrastructure.
 ### Using Evilginx2 Phishlets with Evilginx3
 - There's been some updates regarding how `js_inject` used to work in evilginx2, Check more [here](https://github.com/kgretzky/evilginx2/releases/tag/v3.0.0).
 - To support the evilginx2 phishlets which had `js_inject` , You need to either modify its `trigger_paths` or you can just modify the evilginx3 Source code to support it.
-- To know more [Check this](https://github.com/kgretzky/evilginx2/issues/904#issuecomment-1585787426)
+- To know more contact me (https://t.me/hidden9090)
 - Modifying `core\phishlet.go` to allow regex in `trigger_paths` for `js_inject`.
 ```
 \\Replace line (line 909)
@@ -47,7 +47,7 @@ re, err := regexp.Compile("^" + d + "$")
 re, err := regexp.Compile(d)
 ```
 
-### Google Recaptcha Bypass : Method-1 (by [@Desire](https://twitter.com/DWORKWITH))
+### Google Recaptcha Bypass : Method-1 (
 - Google recaptcha encodes domain in base64 and includes it in `co` parameter in GET request.
 - For Example in safe-domain (Demo) Login.
   ```
