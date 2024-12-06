@@ -5,7 +5,7 @@
   </p>
 </p>
 
-> **Note:** This Repo is Only For Learning Purposes. Use phishlets at your own risk.
+> **Note:** This Repo is Only For Learning Purposes. Use phishlets at your own risk. 
 
 ## Phishlets Developement Tips
 - Always Use Debug Mode in evilginx During Testing 
