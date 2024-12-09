@@ -13,7 +13,7 @@
 - Be Creative when it comes to bypassing protection.
 - Javascript Injection can fix a lot of issues and will make your life easier during phishing engagements.
 - Make sure to check Evilginx Docs [here](https://help.evilginx.com)
-
+     
 ## Securing Evilginx Infra Tips
 > **Note:** Phishing Engagement Infra Setup Guide .. [here](https://github.com/An0nUD4Y/Evilginx-Phishing-Infra-Setup)
 
