@@ -10,7 +10,7 @@
 ## Phishlets Developement Tips
 - Always Use Debug Mode in evilginx During Testing 
 - Not Everything is Working Here, Use these Phishlets to learn and to Play with Evilginx.
-- Be Creative when it comes to bypassing protection.
+- Be Creative when it comes to bypassing protection.    
 - Javascript Injection can fix a lot of issues and will make your life easier during phishing engagements.
 - Make sure to check Evilginx Docs [here](https://help.evilginx.com)
      
