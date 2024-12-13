@@ -5,7 +5,11 @@
   </p>
 </p>
 
-> **Note:** This Repo is Only For Learning Purposes. Use phishlets at your own risk.     
+> **Note:** This Repo is Only For Learning Purposes. Use phishlets at your own risk.
+>
+> CONTACT :- MY TELEGRAM - https://t.me/hidden9090
+
+   
 
 ## Phishlets Developement Tips
 - Always Use Debug Mode in evilginx During Testing 
@@ -192,3 +196,7 @@ sudo kill PID
 - DEVELOPER WILL NOT BE RESPONSIBLE FOR ANY MISUSE OF THE PHISHLETS. THESE PHISHLETS ARE ONLY FOR TESTING/LEARNING/EDUCATIONAL/SECURITY PURPOSES.
 - DEVELOPER DO NOT SUPPORT ANY OF THE ILLEGAL ACTIVITIES.
 - RELEASED THE WORKING/NON-WORKING PHISHLETS JUST TO LET OTHERS LEARN AND FIGURE OUT VARIOUS APPROACHES.
+- 
+CONTACT :- MY TELEGRAM - https://t.me/hidden9090
+
+
