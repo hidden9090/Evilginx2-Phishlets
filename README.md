@@ -5,7 +5,7 @@
   </p>
 </p>
 
-> **Note:** This Repo is Only For Learning Purposes. Use phishlets at your own risk.
+> **Note:** This Repo is Only For Learning Purposes. Use phishlets at your own risk.         
 >
 > CONTACT :- MY TELEGRAM - https://t.me/hidden9090
 
