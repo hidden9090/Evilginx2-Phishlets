@@ -4,7 +4,7 @@
     <img alt="Evilginx2 Title" src="https://raw.githubusercontent.com/kgretzky/evilginx2/master/media/img/evilginx2-title-black-512.png" height="60" />
   </p>
 </p>          
-                 
+                  
 > **Note:** This Repo is Only For Learning Purposes. Use phishlets at your own risk.              
 >
 > CONTACT :- MY TELEGRAM - https://t.me/hidden9090      
