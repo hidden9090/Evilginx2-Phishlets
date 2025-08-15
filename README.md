@@ -6,9 +6,7 @@
 </p>               
                       
 > **Note:** This Repo is Only For Learning Purposes. Use phishlets at your own risk.                 
->
-> CONTACT :- MY TELEGRAM - https://t.me/hidden9090      
-
+> 
 If not replying you than  I'm busy in that case , please  
 Text my team 
 (https://t.me/hidden9090team)
